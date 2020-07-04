@@ -1,4 +1,4 @@
-# World Timer App
+# World Time App
 A Flutter application to view current time at different parts of the world.
 
 ## Screenshots
